@@ -1,0 +1,17 @@
+
+The table below is the 10 best states from the dataset.
+
+STATE   AVG_SCORE               TOT_PAT     TOT_PROC    TOT_HOSP
+ID      -0.6898090811872679     56087.0     263         39
+CO      -0.6703636900667126     150599.0    617         75
+SD      -0.6408835144337944     58578.0     282         50
+HI      -0.6112940494878764     31443.0     145         13
+AK      -0.5382666383306955     19797.0     122         19
+MT      -0.5302692098141039     58274.0     293         47
+OR      -0.49229377657928464    128117.0    568         60
+UT      -0.42735376298739675    70150.0     309         43
+NE      -0.3961972351555047     118448.0    537         86
+WA      -0.37953611730125086    268327.0    794         85
+
+The ranking is based on the weighted normalized average measure score across all hospital in a state. Lower numbers are better. The weights are selected as the denominator for each procedure within hospital. To be considered, hosptials needed to have more than 1,000 patients and have more than 2 procedures. Hospitals with only 2 procedures were eliminated from consideration as they are specialty locations that deal with lower risk patients for hip and knee replacements.)
+

@@ -1,0 +1,18 @@
+
+The table below is the 10 best hospitals from the dataset.
+
+ID      NAME                                                    STATE   AVG_SCORE               TOT_PAT TOT_PROC
+220088  NEW ENGLAND BAPTIST HOSPITAL                            MA      -2.3272344540917396     7418.0  8
+050424  SCRIPPS GREEN HOSPITAL                                  CA      -1.718327622194607      5105.0  14
+230004  MERCY HEALTH PARTNERS, MERCY CAMPUS                     MI      -1.5711145596430143     6357.0  14
+340002  MEMORIAL MISSION HOSPITAL AND ASHEVILLE SURGERY CE      NC      -1.530040943137315      26891.0 14
+130006  ST LUKE'S REGIONAL MEDICAL CENTER                       ID      -1.5170940928313028     9338.0  14
+160029  MERCY HOSPITAL                                          IA      -1.5102302311177638     6361.0  14
+100087  SARASOTA MEMORIAL HOSPITAL                              FL      -1.488373835142424      20708.0 14
+150051  INDIANA UNIVERSITY HEALTH BLOOMINGTON HOSPITAL          IN      -1.4744337479609317     7848.0  14
+420023  ST FRANCIS-DOWNTOWN                                     SC      -1.4591174728950813     11956.0 14
+050145  COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA            CA      -1.438775705511511      8403.0  14
+
+
+The ranking is based on the weighted normalized average measure score of each hospital. Lower numbers are better. The weights are selected as the denominator for each procedure within hospital. To be considered, hosptials needed to have more than 1,000 patients and have more than 2 procedures. Hospitals with only 2 procedures were eliminated from consideration as they are specialty locations that deal with lower risk patients for hip and knee replacements.)
+

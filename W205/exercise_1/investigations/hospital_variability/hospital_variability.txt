@@ -1,0 +1,43 @@
+
+The table below is the variability of procedures.
+
+Std_Dev_Wtd             Std_Dev                 Wtd_Score               Proc_Cnt    M_ID        Measure_Name
+92.94303679397926       92.83178787038688       290.72819720039575      3516        ED_1b       Median Time from ED Arrival to ED Departure for Admitted ED Patients
+62.5633411573093        62.1666505939829        111.23063323690131      3496        ED_2b       Admit Decision Time to ED Departure Time for Admitted Patients
+39.75711511342921       40.70077322337158       144.02769654939337      3349        OP_18b      Median Time from ED Arrival to ED Departure for Discharged ED Patients
+28.84494259374675       29.479326601050527      60.33000906618314       409         OP_3b       Median Time to Transfer to Another Facility for Acute Coronary Intervention- Reporting Rate
+21.606410965439682      21.844653491103774      67.41226326864624       959         OP_23       Head CT Scan Results for Acute Ischemic Stroke or Hemorrhagic Stroke Patients who Received Head CT or MRI Scan Interpretation Within 45 Minutes of ED Arrival
+21.53320576892546       21.954194561164023      84.0177550106928        874         STK_4       Thrombolytic Therapy
+17.629931647977266      17.722358013930915      56.523080432476405      3172        OP_21       Median Time to Pain Management for Long Bone Fracture
+17.053051822809735      16.30300466996529       87.54203271432952       2468        VTE_5       Venous Thromboembolism Warfarin Therapy Discharge Instructions
+15.95180855021941       16.882052975576602      27.684495258277135      3354        OP_20       Median Time from ED Arrival to Provider Contact for ED patients
+11.545681804860921      15.257401142298388      90.86876872668759       3534        VTE_1       Venous Thromboembolism Prophylaxis
+10.308259319924629      14.013262732452308      92.93148714614335       2372        STK_8       Stroke Education
+9.406286648523315       11.944885922069522      93.17560108080151       3739        IMM_2       Influenza Immunization
+9.017369240305559       11.827981182220096      94.84885503957993       2934        HF_1        Discharge Instructions
+6.92043384392694        8.062464154313078       5.843391480398372       1388        VTE_6       Hospital Acquired Potentially-Preventable Venous Thromboembolism
+6.563580098255616       7.478245376071558       95.21367413792517       2955        VTE_2       Intensive Care Unit Venous Thromboembolism Prophylaxis
+6.208259554771642       6.958257962124783       3.936909785918904       2520        PC_01       Elective Delivery
+6.060810288675052       7.969587639712162       95.17000955975298       2666        VTE_3       Venous Thromboembolism Patients with Anticoagulation Overlap Therapy
+6.000566514145043       9.275894472939902       96.09281155586832       3973        PN_6        Initial Antibiotic Selection for CAP in Immunocompetent Patient
+5.722012348591762       10.037311540967659      96.25248510507939       2582        STK_6       Discharged on Statin Medication
+5.635931976492839       8.960820268646398       96.35147661497066       2710        STK_1       Venous Thromboembolism (VTE) Prophylaxis
+5.528159924134996       6.226219779552953       96.65258828024905       1499        STK_3       Anticoagulation Therapy for Atrial Fibrillation/Flutter
+5.423798436677585       6.694532539262589       96.07435754556182       1528        AMI_8a      Primary PCI Received Within 90 Minutes of Hospital Arrival
+5.307558831415704       5.59066086503962        98.85147468221452       2045        VTE_4       Venous Thromboembolism Patients Receiving Unfractionated Heparin with Dosages/Platelet Count Monitoring by Protocol or Nomogram
+4.940954581330003       6.109381800089665       7.848913339602246       2099        OP_5        Median Time to ECG
+4.690564611415282       6.460854228893          97.32201444197246       2692        HF_3        ACEI or ARB for LVSD
+4.260744423189086       5.206198494502718       96.97037050543359       2087        OP_4        Aspirin at Arrival
+4.070622678493328       10.411823309201342      99.28280748304026       3781        HF_2        Evaluation of LVS Function
+3.048983318796196       5.668900431041958       98.25696976082605       2702        STK_10      Assessed for Rehabilitation
+2.6625952221607063      5.370756360124221       98.3341670634149        2675        STK_5       Antithrombotic Therapy By End of Hospital Day 2
+2.6240897092064173      5.62096294315811        98.75302682707296       2188        AMI_10      Statin Prescribed at Discharge
+2.575913438887792       5.06902548279814        98.12760114932819       2909        OP_6        Timing of Antibiotic Prophylaxis
+2.3214468336056155      3.915771074179823       98.2540973840781        2914        OP_7        Prophylactic Antibiotic Selection for Surgical Patients
+1.9518722237257982      3.8822394411731174      99.25187732944913       2673        STK_2       Discharged on Antithrombotic Therapy
+1.8663890336021178      1.7166517366421372      1.9436027620340843      3206        OP_22       Patient left without being seen
+1.8276241043560852      4.692348522505275       99.44433289202706       3519        SCIP_VTE_2  Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery
+1.795678019511456       3.8059638149023223      99.33839483459067       2207        AMI_2       Aspirin Prescribed at Discharge
+
+The top 3 variances in procedure scores are all in Emergency Department visits and their affiliated procedures.
+
